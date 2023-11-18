@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **uppalagupta456@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1GWsBujlxQ7SySicuPyuANULAmG9feO4X?usp=sharing](https://drive.google.com/drive/folders/1GWsBujlxQ7SySicuPyuANULAmG9feO4X?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/drive/folders/1GWsBujlxQ7SySicuPyuANULAmG9feO4X?usp=sharing)
 
 - ⚡ Fun fact **I'm going to learn so much, I'll be a genius!**
 
