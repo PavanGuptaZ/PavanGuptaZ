@@ -1,21 +1,58 @@
-<h1 align="center">Hi 👋, I'm Pavan Gupta</h1>
-<h3 align="center">"I am a Full Stack Developer with expertise in HTML, CSS, JavaScript, ReactJS, NextJS, NodeJs, ExpressJs, MongoDB, and PostgreSQL. Interested about building web applications from Scratch. Focusing on clean code, scalable architecture, and seamless user experiences."</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Kotlin, Blender**
+<h1>Hi, I'm Pavan Gupta 👋</h1>
 
-- 💬 Ask me about **Nodejs, Typescript, ReactJs, Javascript**
+<h3>Full Stack Developer — MERN Stack · TypeScript · AWS</h3>
 
-- 📫 How to reach me **uppalagupta456@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1GWsBujlxQ7SySicuPyuANULAmG9feO4X?usp=sharing](https://drive.google.com/drive/folders/1GWsBujlxQ7SySicuPyuANULAmG9feO4X?usp=sharing)
-
-- ⚡ Fun fact **I'm going to learn so much, I'll be a genius!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pavanguptaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavanguptaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pavanguptaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavanguptaz" height="30" width="40" /></a>
+<p>
+I build backend-first, production-ready web applications — from database design and event-driven AWS infrastructure to performant, type-safe frontends.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+<a href="https://pavanguptaz.com"><img src="https://img.shields.io/badge/Portfolio-pavanguptaz.com-1166D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/pavanguptaz"><img src="https://img.shields.io/badge/LinkedIn-Connect-1166D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:uppalagupta123@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-1166D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+</div>
+
+---
+
+### About Me
+
+- 🔭 Currently building full-stack products at **Lifemine Technologies / Webpipl Solutions**, focused on backend architecture and production database health.
+- 🧰 Daily stack: **React, Next.js, Node.js, Express, MongoDB, PostgreSQL, TypeScript**, deployed on **AWS** (EC2, ECS, Lambda, SQS/SNS, EventBridge) with **Docker** and **Kafka**.
+- 🌱 Currently learning **Go** and **Rust**.
+- 💬 Ask me about **Node.js, TypeScript, React, Next.js, or AWS architecture**.
+- 📄 [Download my résumé](https://pavanguptaz.com/Pavan_Gupta_Resume.pdf) · 🌐 [pavanguptaz.com](https://pavanguptaz.com)
+
+### Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-1166D4?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-1166D4?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-1166D4?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-1166D4?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React_Native-1166D4?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+<img src="https://img.shields.io/badge/Node.js-1166D4?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-1166D4?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-1166D4?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-1166D4?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-1166D4?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-1166D4?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-1166D4?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Apache_Kafka-1166D4?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+<br/>
+<img src="https://img.shields.io/badge/Figma-1166D4?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Linux-1166D4?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-1166D4?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<br/>
+<em>Currently learning:</em>
+<img src="https://img.shields.io/badge/Go-2C2C2C?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Rust-2C2C2C?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+</p>
+
+<div align="center">
+<sub>📫 Reach me at <a href="mailto:uppalagupta123@gmail.com">uppalagupta123@gmail.com</a> · Madhapur, Hyderabad, India</sub>
+</div>
